@@ -1,6 +1,6 @@
 {
-  "private": true,
   "name": "devextreme-reactive",
+  "version": "1.0.1",
   "author": {
     "name": "Developer Express Inc.",
     "url": "https://www.devexpress.com/"
